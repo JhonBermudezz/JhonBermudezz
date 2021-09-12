@@ -8,3 +8,6 @@ Hi I'm John, I love and I like programming in python and c ++, am audodidacta wi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like music and video games
 -->
+###Hotlink
+-Twitter: @JhonBermudezz
+-Linkedin: https://www.linkedin.com/in/jhon-jairo-bermudez-sanchez-54b6951a5/
